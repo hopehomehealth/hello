@@ -1,0 +1,2 @@
+printf   aaa
+printf   bbb`
