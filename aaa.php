@@ -7,4 +7,4 @@ echo "dev";
 echo 'feature1';
 echo "fenzhiguanli";
 echo "dev  fast forward";
-echo 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa';
+echo 'aaaaaaaaaa     read me';
