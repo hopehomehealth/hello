@@ -3,6 +3,5 @@
 
 
 
-aaasdd
 
 echo 'bbbbbbbbbbbbb';
